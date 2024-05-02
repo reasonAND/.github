@@ -1,4 +1,4 @@
-- 👋 Hi, We're @reasonAND
+- 👋 Hi, We're @reason&
 - 👀 We're passionate about leveraging latest trends & technologies to help businesses and clients stand out in the digital landscape.
 - 🌱 We're currently immersed in exploring the latest advancements in web technologies and design trends to bring cutting-edge solutions to our clients.
 - 💞️ We're excited to collaborate on projects that push the boundaries of creativity and deliver standout experiences for our clients.
