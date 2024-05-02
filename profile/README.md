@@ -7,4 +7,6 @@
  
 - ⚡ Fun fact: We believe in combining the power of imagination with technology to create not just solutions, but experiences that leave a lasting impact.
 
+<!--
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
